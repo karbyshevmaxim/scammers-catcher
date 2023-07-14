@@ -1,0 +1,1 @@
+0 0 */1 * * root run-parts /home/de11an/kmdd/project/main.py
